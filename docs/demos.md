@@ -45,6 +45,12 @@ docs:
     url: https://docs.pguide.studio
     repo: https://github.com/MultipledMe/PGuide-Docs
     preview: /images/demos/pguide-doc.jpg
+  -
+    name: 腾马官方文档平台
+    desc: 致力为客户打造可持续、可扩展的完整生态。
+    logo: https://tm.docs.eeov.cn/favicon.ico
+    url: https://tm.docs.eeov.cn
+    preview: https://tm.docs.eeov.cn/images/web-site/demo.webp
 blog:
   -
     name: 鹏展博
